@@ -66,10 +66,10 @@ tags$ul(links)
 
 ---
 
-The primary aim of this site is to provide a re-styled and searchable version of the manuals, but we try very hard to keep the actual content as close to the original as possible.  The r-styling consists mainly of:
+The primary aim of this site is to provide a re-styled and searchable version of the manuals, but we try very hard to keep the actual content as close to the original as possible.  The re-styling consists mainly of:
 
 * Splitting chapters into separate pages
-* Add code formatting
+* Adding code formatting
 
 Original R Manuals can be found at <https://cran.r-project.org/manuals.html>. The manuals in this website are built automatically from the originals using [Quarto](https://quarto.org). Code can be found at <https://github.com/rstudio/r-manuals>.
 
